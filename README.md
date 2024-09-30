@@ -7,7 +7,12 @@ This project makes use of:
 
 
 
+# What's New?
 
+Coming Soon:
+
+- Fixing Auth Issues
+- Updating UI 
 
 ## Getting Started
 
